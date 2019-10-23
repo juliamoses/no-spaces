@@ -1,7 +1,7 @@
 {
   "name": "no-spaces",
   "version": "0.1.0",
-  "description": "should? take spaces out of strings",
+  "description": "a package for those moments your strings don't need spaces",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -11,7 +11,8 @@
     "url": "git+https://github.com/juliamoses/no-spaces.git"
   },
   "author": "julia moses",
-  "license": "ISC",
+  "email": "jslmoses@gmail.com",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/juliamoses/no-spaces/issues"
   },
